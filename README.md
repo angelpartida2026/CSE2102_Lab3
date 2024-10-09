@@ -2,8 +2,8 @@
 
 Download the PizzaFactory file in this lab and once in codespace enter the following:
 
-CodeSpace> cd /path/to/your/project/pizza-factory
-CodeSpace> mvn clean
+CodeSpace> cd /path/to/your/project/pizza-factory /n
+CodeSpace> mvn clean /n
 CodeSpace> mvn compile
 CodeSpace> mvn exec:java -Dexec.mainClass="com.example.PizzaStore"
 
