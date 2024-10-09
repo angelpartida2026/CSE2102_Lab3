@@ -9,5 +9,6 @@ CodeSpace> mvn compile </br>
 CodeSpace> mvn exec:java -Dexec.mainClass="com.example.PizzaStore" </br>
 </br>
 (Optional) This makes it run in "quiet mode", only printing the output and not showing maven run
+</br>
 CodeSpace> mvn -q exec:java -Dexec.mainClass="com.example.PizzaStore"
 
