@@ -1,6 +1,6 @@
 # CSE2102_Lab3
 
-Download all the files in this lab
+Download the PizzaFactory file in this lab and once in codespace enter the following:
 
 CodeSpace> cd /path/to/your/project/pizza-factory
 CodeSpace> mvn clean
