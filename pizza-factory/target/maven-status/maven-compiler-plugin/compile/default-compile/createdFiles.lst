@@ -1,5 +1,9 @@
 com/example/CheesePizza.class
+com/example/MeatLoversPizza.class
+com/example/SaladPizza.class
 com/example/App.class
+com/example/HawaiianPizza.class
+com/example/PizzaInterface.class
+com/example/BBQChickenPizza.class
 com/example/PizzaFactory.class
 com/example/PizzaStore.class
-com/example/PizzaInterface.class
